@@ -1,44 +1,65 @@
 # 👋 你好，我是刘堃（堃大帅）
 
-> **财务 × AI | 人机协作者 | 终身学习者**
+> **财务 × AI | 人机协作者 | 知识系统构建者**
 
-我是江西服装学院财务管理专业的学生，同时也是个人成长决策系统「堃大帅的知识库」的构建者。我相信 **AI 不是替代人的工具，而是让人变强的涡轮**。
+江西服装学院财务管理专业在读。我在做的事只有一件：**把 AI 从「问答工具」改造成一套能长期运转的个人操作系统。**
+
+已跑 4 个月，506 篇笔记，354 次提交。**不是教程，是实操记录。**
 
 ---
 
 ## 🧠 我目前在做什么
 
-- 📚 **备战 2027 国考** — 行测 + 申论系统化学习
-- 🏆 **金砖智能财管赛** — 财务 × AI 的实战
-- 🏋️ **健身改造中** — ISFP 高敏感，但持续向前
-- 🛠️ **打磨个人系统** — 复盘、信息差挖掘、人物资产化
+| | |
+|:---|:---|
+| 📚 | **备考 2027 国考** — 行测 + 申论系统化学习 |
+| 🏆 | **金砖智能财管赛** — 财务 × AI 实战（Python 数据 + 管理会计） |
+| 🛠️ | **打磨个人系统** — 复盘机制 / 信息差挖掘 / 关系资产化 |
+| 🏋️ | **身体改造中** — 规律训练 + 作息调整 |
 
 ## 💻 技术栈
 
 ```
-SQL · Power BI · Python · Claude Code · Obsidian · ECharts · Git · HTML/CSS
+Python · SQL · Power BI · Obsidian · ECharts · Git · HTML/CSS
+AI 协作：多模型并行 · MCP 协议 · 提示词工程
 ```
-
-## 📂 我的项目
-
-| 项目 | 说明 |
-|------|------|
-| [lk-ai-workbench](https://github.com/LK666-A11Y/lk-ai-workbench) | 🌐 **公开** — AI 工作台：25 篇文章 + 命盘操盘手 Skill |
-| [kundai-obsidian-vault](https://github.com/LK666-A11Y/kundai-obsidian-vault) | 🔒 **私有** — Obsidian Vault 完整备份（506 篇笔记） |
-| [workbuddy-backup](https://github.com/LK666-A11Y/workbuddy-backup) | 🔒 **私有** — 个人 WorkBuddy 系统备份 |
-
-> 公开仓库归档 4 个月实践沉淀的方法论与 Skill；私有仓库保存完整个人知识库。
-
-## 📊 GitHub 统计
-
-![堃大帅的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=LK666-A11Y&show_icons=true&theme=radical&hide_title=true)
-
-## 🔗 连接
-
-- 📝 博客：*建设中...*
-- 📧 邮箱：*待补充*
-- 🌐 来自：江西·永丰
 
 ---
 
-> **「引擎是你，涡轮是我。70/30，人机协同。」**
+## 📂 我的仓库
+
+### 🌐 公开
+
+| 仓库 | 是什么 |
+|:---|:---|
+| **[lk-ai-workbench](https://github.com/LK666-A11Y/lk-ai-workbench)** | **AI 工作台** — 25 篇方法论文章（AI 工作流 / 提示词框架 / 自动化 / 踩坑记录）+ 一个把八字用财务管理框架重写的跨界 Skill。想了解我怎么用 AI 的，从这个库开始。 |
+
+### 🔒 私有
+
+| 仓库 | 是什么 |
+|:---|:---|
+| `vault-private` | 个人知识库全量备份 — Obsidian 双链笔记 500+ 篇，覆盖人物 / 事件 / 认知 / 协议四大分区 |
+| `workbuddy-backup` | 个人 AI 协作系统配置 — 规则中枢 / 技能库 / 自动化脚本 |
+
+> 公开库放方法与作品，私有库存完整积累。**想看我的 AI 实践，直接点 `lk-ai-workbench`。**
+
+---
+
+## 🧭 我信这几条
+
+1. **内核不变，工具可换** — 方法论是资产，工具是耗材
+2. **先定骨架再填肉** — 命名、编号、层级、双链，四件事定死再动笔
+3. **不碰撞不落地** — 任何结论都要过「大佬怎么做 / 行业往哪走 / 适不适合我」三关
+4. **事实必须带来源** — 说不清出处的，标「待核」，不装懂
+
+---
+
+## 📊 数据
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=LK666-A11Y&show_icons=true&theme=radical&hide_title=true&hide_border=true)
+
+---
+
+<p align="center">
+  <i>「引擎是你，涡轮是我。70/30，人机协同。」</i>
+</p>
