@@ -23,10 +23,11 @@ SQL · Power BI · Python · Claude Code · Obsidian · ECharts · Git · HTML/C
 
 | 项目 | 说明 |
 |------|------|
-| [Obsidian-notes](https://github.com/LK666-A11Y/Obsidian-notes) | 个人知识库 — AI 时代的人机协作实践 |
-| [kundai-obsidian-vault](https://github.com/LK666-A11Y/kundai-obsidian-vault) | Obsidian Vault 完整备份 |
-| [gaoning-birthday](https://github.com/LK666-A11Y/gaoning-birthday) | 🎂 高宁 18 岁生日交互式贺卡 |
-| [workbuddy-backup](https://github.com/LK666-A11Y/workbuddy-backup) | 个人 WorkBuddy 系统备份 |
+| [lk-ai-workbench](https://github.com/LK666-A11Y/lk-ai-workbench) | 🌐 **公开** — AI 工作台：25 篇文章 + 命盘操盘手 Skill |
+| [kundai-obsidian-vault](https://github.com/LK666-A11Y/kundai-obsidian-vault) | 🔒 **私有** — Obsidian Vault 完整备份（506 篇笔记） |
+| [workbuddy-backup](https://github.com/LK666-A11Y/workbuddy-backup) | 🔒 **私有** — 个人 WorkBuddy 系统备份 |
+
+> 公开仓库归档 4 个月实践沉淀的方法论与 Skill；私有仓库保存完整个人知识库。
 
 ## 📊 GitHub 统计
 
